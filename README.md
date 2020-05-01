@@ -7,7 +7,7 @@
      ![](IMG_20200501_141722_354.jpg)
      *Choose Python
      *Name your file(preferably,use your name and task day)
-     ![](IMG_202IMG_20200501_141722_354.jpg00501_133252_567.jpg)
+     ![](IMG_20200501_133252_567.jpg)
   4. Type or copy your code and run it to ensure it works
      ![](IMG_20200501_133406_512.jpg)
   5. Copy the pages URL and paste it on submission URL space.
