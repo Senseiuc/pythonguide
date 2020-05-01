@@ -6,4 +6,6 @@
      *Name your file(preferably,use your name and task day)
   4. Type or copy your code and run it to ensure it works
   5. Copy the pages URL and paste it on submission URL space.
-
+  6. Ensure you select the right day,level and track.
+  7. Drop comments if you want to.
+  8. Don't forget to tweet
